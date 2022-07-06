@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1330" height="299" viewBox="0 0 1330 299" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M757.597 168.399C450.907 308.18 83.0109 374.048 -139.538 166.302C-380.473 -58.6074 -398.176 -508.795 -194.421 -795.149C-15.0454 -1047.24 334.292 -926.451 641.777 -882.537C952.005 -838.231 1298.63 -790.497 1327.16 -502.177C1356.51 -205.528 1061.02 30.1053 757.597 168.399Z" fill="url(#paint0_linear)" style="mix-blend-mode:multiply"/>
+<defs>
+<linearGradient id="paint0_linear" x1="-274.179" y1="441.297" x2="1149.38" y2="-42.5828" gradientUnits="userSpaceOnUse">
+<stop stop-color="#720C1C"/>
+<stop offset="0.642702" stop-color="#D91734"/>
+<stop offset="1" stop-color="#E31837"/>
+</linearGradient>
+</defs>
+<div xmlns="" id="divScriptsUsed" style="display: none"/><script xmlns="" id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
+
+<!-- 720C1C
+D91734
+E31837 -->

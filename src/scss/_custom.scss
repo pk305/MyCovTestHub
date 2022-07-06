@@ -1,0 +1,51 @@
+// Here you can add other styles
+
+@font-face {
+  font-family: proxima-nova;
+  src: url("../assets/fonts/proxima-nova/proxima-nova-regular.otf")
+    format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: proxima-nova-bold;
+  src: url("../assets/fonts/proxima-nova/proxima-nova-bold.woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+// @font-face {
+//     font-family: proxima-nova-black;
+//     src: url(proxima-nova-black.759f387860abb73fcf49.woff2) format("woff2"),url(proxima-nova-black.f9a7dd81d4c07b38d4c1.woff) format("woff"),url(proxima-nova-black.c47c63d8f301bb81337b.ttf) format("opentype");
+//     font-display: swap;
+//     font-style: normal;
+//     font-weight: 800
+// }
+
+// @font-face {
+//     font-family: proxima-nova-condensed;
+//     src: url(proxima-nova-condensed-smibold.9795f13795ed590493b4.ttf) format("opentype");
+//     font-display: swap;
+//     font-style: italic;
+//     font-weight: 700
+// }
+
+// * {
+//     font-family: proxima-nova,sans-serif;
+//     box-sizing: border-box;
+//     word-break: break-word;
+//     word-wrap: break-word
+// }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p strong {
+  font-family: proxima-nova-bold, sans-serif;
+}
